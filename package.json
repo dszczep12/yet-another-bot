@@ -1,0 +1,24 @@
+{
+  "name": "yet-another-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for the homies when I forget to say have a good day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dszczep12/yet-another-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dszczep12/yet-another-bot/issues"
+  },
+  "homepage": "https://github.com/dszczep12/yet-another-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
